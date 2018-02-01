@@ -1,2 +1,4 @@
-# CNN-For-Deblurring-End-to-End-
-Trained an End-to-End model for deblurring of images (CelebA and SVHN).
+# CNN-For-Deblurring-End-to-End-Deblurring
+Trained an End-to-End model for deblurring of images (CelebA and SVHN) following the work in [CNN For Direct Text Deblurring](http://www.fit.vutbr.cz/research/pubs/index.php.en?file=%2Fpub%2F10922%2Fhradis15CNNdeblurring.pdf&id=10922).
+The first layer filter size is adjusted to be approximately equal to the blur kernel size.
+
